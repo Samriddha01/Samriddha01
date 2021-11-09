@@ -11,7 +11,7 @@ I am a Full Stack developer and coding is my life.
   </a>&nbsp;&nbsp;
 </p>
 
-- ✏️ I'm currenly pursuing PG Diploma in Advanced Computing from CDAC, Pune.
+- ✏️ I'm currenly working as a Project Engineer in the Artificial Intelligence Department at CDAC.
 - 💼 I have a Bachelor's degree in Electronics and Communication Engineering.
 - ⚡ My interests are in Fullstack Web Development.
 - 🧠 Currently exploring Advanced Data Structures & Algorithms.  
