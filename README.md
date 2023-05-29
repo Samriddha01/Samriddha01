@@ -3,7 +3,7 @@
 I am a Full Stack developer and coding is my life.
 
 <p align='left'>
-  <a href="www.linkedin.com/in/samriddha-bajpai-4086a2130">
+  <a href="www.linkedin.com/in/samriddhabajpai">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/sam_the_volatile/">
